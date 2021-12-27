@@ -1,5 +1,8 @@
-# MyPHP kernel for Jupyter
-[Example](https://github.com/nufeng1999/jupyter-MyPHP-kernel/blob/master/example/jupyter_MyPHP_readme.ipynb "Example")
+![](https://img.shields.io/badge/Jupyter-Kernel-green?link=https://jupyter.org/&link=https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) ![](https://img.shields.io/badge/MyPHP-Kernel-orange) ![](https://img.shields.io/github/watchers/nufeng1999/jupyter-MyPHP-kernel) <img alt="ViewCount" src="https://views.whatilearened.today/views/github/nufeng1999/jupyter-MyPHP-kernel.svg">
+    <a href="https://github.com/nufeng1999/jupyter-MyPHP-kernel"><img alt="GitHub Clones" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://raw.githubusercontent.com/nufeng1999/jupyter-MyPHP-kernel/master/clone.json&logo=github"></a>
+# MyPHP kernel for Jupyter  
+  
+[Example](https://github.com/nufeng1999/jupyter-MyPHP-kernel/blob/master/example/MyPHP.ipynb "Example")
 * Make sure you have the following requirements installed:
   * PHP
   * jupyter
